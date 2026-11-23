@@ -93,3 +93,7 @@ To connect to a live Supabase instance:
 VITE_SUPABASE_URL=https://your-supabase-project.supabase.co
 VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
 ```
+## DevOps Deployment
+
+CampusFind uses GitHub Actions for continuous integration
+and Vercel for automatic deployment.
